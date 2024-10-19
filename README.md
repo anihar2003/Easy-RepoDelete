@@ -24,4 +24,4 @@ token = "your_github_token_here"
 ````
 Note: You can generate a GitHub personal access token from your GitHub account's settings under "Developer Settings" → "Personal Access Tokens." Make sure to give it appropriate scopes, like repo, for accessing and deleting repositories.
 
-Run the code.
+Run the code
