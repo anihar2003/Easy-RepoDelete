@@ -6,10 +6,12 @@ Useful when contributing to open source project and easy to remove forked projec
 - Prompt-based interface to enter the name or URL of the repository you want to delete.
 - Safely deletes the specified repository from your GitHub account.
 
-Setup Instructions
+Setup Instructions:
+
 Clone the repository to your local machine:
 
 Install the required dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
