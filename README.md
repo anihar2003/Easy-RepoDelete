@@ -8,9 +8,9 @@ Useful when contributing to open source project and easy to remove forked projec
 
 Setup Instructions:
 
-Clone the repository to your local machine:
+Clone the repository to your local machine:-
 
-Install the required dependencies:
+Install the required dependencies:-
 
 ```bash
 pip install -r requirements.txt
